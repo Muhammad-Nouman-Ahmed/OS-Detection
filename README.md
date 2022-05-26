@@ -5,7 +5,7 @@ e.g, 192.x.x.x or google.com
 
 ## Requirement
 * Python 3.x \
-* pip install socket
+* pip install scapy
 
 ## Google Form
 
