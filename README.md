@@ -12,7 +12,7 @@ e.g, 192.x.x.x or google.com
 <button style="background-color: turquoise; border: none; border-radius: 5px; color: #333; padding: 15px 32px"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdhxR5JdOb_pjtQb48Ax8JbJfkbcCyCeYLBWxHQ02u7z5oKag/viewform?usp=sf_link" target="blank"> Fill the form for Questions, Queries and Suggestions</a></button>
 
 ## Result
-![Results](https://github.com/Muhammad-Nouman-Ahmed/Port-Scan/blob/main/result.PNG)
+![Results](https://github.com/Muhammad-Nouman-Ahmed/OS-Detection/blob/main/results.PNG)
 
 ## Authors
 
